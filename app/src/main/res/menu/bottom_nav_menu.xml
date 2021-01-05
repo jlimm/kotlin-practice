@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/recipesFragement"
+        android:title="@string/recipes_fragment"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/homeFragement"
+        android:title="home"
+        android:icon="@drawable/ic_search"/>
+
+    <item android:id="@+id/arFragement"
+        android:title="ar"
+        android:icon="@drawable/ic_360"/>
+
+    <item android:id="@+id/favoriteRecipesFragment"
+        android:title="@string/favorite_recipes_fragment"
+        android:icon="@drawable/ic_star"/>
+
+    <item android:id="@+id/foodjokeFragment"
+        android:title="@string/food_joke_fragment"
+        android:icon="@drawable/ic_food_joke"/>
+</menu>
